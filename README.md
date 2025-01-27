@@ -71,12 +71,6 @@ pip install torch torchvision numpy matplotlib
   - Loss and accuracy trends over training epochs.
   - Predicted bounding boxes on test images.
 
-### Limitations & Future Improvements
-
-- The model is trained on **32x32 pixel images**, which limits localization precision.
-- Extending the CNN to **deeper architectures (e.g., ResNet, EfficientNet)** could enhance accuracy.
-- Implementing **IoU-based evaluation** could provide better localization performance metrics.
-
 ### Author
 
 **Almog Arazi**
